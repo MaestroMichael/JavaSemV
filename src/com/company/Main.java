@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        System.out.println("First change");
+        System.out.println("Git Clone");
     }
 }
