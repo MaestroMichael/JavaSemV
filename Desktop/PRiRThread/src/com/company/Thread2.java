@@ -2,11 +2,12 @@ package com.company;
 
 public class Thread2 implements Runnable{
 
-    int id;
-    public Thread2(int id ){
-        this.id=id;
 
-    }
+//    int id;
+//    public Thread2(int id ){
+//        this.id=id;
+//
+//    }
 
     @Override
     public void run() {
