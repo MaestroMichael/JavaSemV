@@ -40,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main1">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="PRiRThread" />
@@ -66,8 +66,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main1" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main1" />
       </list>
     </recent_temporary>
   </component>
@@ -82,7 +82,8 @@
       <option name="presentableId" value="Default" />
       <updated>1572072150441</updated>
       <workItem from="1572072157161" duration="1992000" />
-      <workItem from="1572103531607" duration="3557000" />
+      <workItem from="1572103531607" duration="3745000" />
+      <workItem from="1572264210873" duration="255000" />
     </task>
     <servers />
   </component>
