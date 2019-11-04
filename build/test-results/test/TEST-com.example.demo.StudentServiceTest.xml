@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.demo.StudentServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-02T21:23:40" hostname="DESKTOP-NOTRLM3" time="0.02">
+<testsuite name="com.example.demo.StudentServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-04T23:26:45" hostname="DESKTOP-NOTRLM3" time="0.024">
   <properties/>
-  <testcase name="getEmptyList" classname="com.example.demo.StudentServiceTest" time="0.02"/>
+  <testcase name="addStudnetsHasNewId" classname="com.example.demo.StudentServiceTest" time="0.024"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
